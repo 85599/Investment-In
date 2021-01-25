@@ -16,6 +16,10 @@ To run the app:
  - Insights on Investing Apps 
  - Interactive Graphing Tool 
  - Stock Screener 
+ 
+ We use browsers, and visits 1000s of Unsecured/Tracking/Cookies enabled websites on a daily basis, being a cautious trader I was afraid of security. Although, developers are trying their best to secure their platforms. But this 2020, Cyber-crime Master Gogo, are also trying their best to loot anything possible from us.
+
+Remember "Aaya Hu Kuch Toh Lutkar Jaunga"! Our fingerprints never fade, and hence high probability, to becoming victim one day.
 
 # Screenshots 
 
